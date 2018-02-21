@@ -538,7 +538,7 @@ span.ab-line {
 .about-left {
   float: left;
   width: 34%;
-  min-height: 530px;
+  
 }
 .about-right {
   float: right;
@@ -653,7 +653,6 @@ span.grorius {
 .about-left {
   float: none;
   width: 100%;
-  min-height: 268px;
   display: none;
 }
 .about-right {
